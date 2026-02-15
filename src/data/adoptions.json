@@ -1,0 +1,100 @@
+[
+  {
+    "month": "2025-01",
+    "dogs": 9,
+    "cats": 7,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-02",
+    "dogs": 8,
+    "cats": 6,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-03",
+    "dogs": 10,
+    "cats": 8,
+    "returnedDogs": 1,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-04",
+    "dogs": 11,
+    "cats": 9,
+    "returnedDogs": 0,
+    "returnedCats": 1
+  },
+  {
+    "month": "2025-05",
+    "dogs": 12,
+    "cats": 10,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-06",
+    "dogs": 13,
+    "cats": 11,
+    "returnedDogs": 1,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-07",
+    "dogs": 14,
+    "cats": 12,
+    "returnedDogs": 1,
+    "returnedCats": 1
+  },
+  {
+    "month": "2025-08",
+    "dogs": 13,
+    "cats": 11,
+    "returnedDogs": 1,
+    "returnedCats": 1
+  },
+  {
+    "month": "2025-09",
+    "dogs": 12,
+    "cats": 10,
+    "returnedDogs": 1,
+    "returnedCats": 1
+  },
+  {
+    "month": "2025-10",
+    "dogs": 11,
+    "cats": 9,
+    "returnedDogs": 1,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-11",
+    "dogs": 10,
+    "cats": 8,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  },
+  {
+    "month": "2025-12",
+    "dogs": 9,
+    "cats": 7,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  },
+  {
+    "month": "2026-01",
+    "dogs": 10,
+    "cats": 8,
+    "returnedDogs": 1,
+    "returnedCats": 0
+  },
+  {
+    "month": "2026-02",
+    "dogs": 9,
+    "cats": 7,
+    "returnedDogs": 0,
+    "returnedCats": 0
+  }
+]

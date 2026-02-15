@@ -8,6 +8,10 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:unit": "vitest run -c vitest.unit.config.ts",
+    "test:e2e": "vitest run -c vitest.e2e.config.ts",
     "format": "prettier . --write",
     "format:check": "prettier . --check",
     "prepare": "husky",
@@ -28,6 +32,9 @@
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@tailwindcss/vite": "^4.1.12",
+    "@testing-library/jest-dom": "^6.7.0",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.6.1",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
@@ -43,6 +50,8 @@
     "tailwindcss": "^4.1.12",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
-    "vite": "^7.2.4"
+    "vite": "^7.2.4",
+    "vitest": "^3.2.4",
+    "jsdom": "^26.1.0"
   }
 }

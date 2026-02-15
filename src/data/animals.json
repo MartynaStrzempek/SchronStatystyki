@@ -1,0 +1,1690 @@
+[
+  {
+    "id": "a1",
+    "name": "Misia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-01-01",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Luna",
+      "https://placehold.co/800x600?text=Luna%202"
+    ]
+  },
+  {
+    "id": "a2",
+    "name": "Borys",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-01-08",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Borys",
+      "https://placehold.co/800x600?text=Borys%202"
+    ]
+  },
+  {
+    "id": "a3",
+    "name": "Filemon",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-01-15",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Misia",
+      "https://placehold.co/800x600?text=Misia%202"
+    ]
+  },
+  {
+    "id": "a4",
+    "name": "Luna",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-01-22",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Riko",
+      "https://placehold.co/800x600?text=Riko%202"
+    ]
+  },
+  {
+    "id": "a5",
+    "name": "Kicia",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-01-29",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kropka",
+      "https://placehold.co/800x600?text=Kropka%202"
+    ]
+  },
+  {
+    "id": "a6",
+    "name": "Riko",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-02-05",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Fado",
+      "https://placehold.co/800x600?text=Fado%202"
+    ]
+  },
+  {
+    "id": "a7",
+    "name": "Mruczek",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-02-12",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Mokka",
+      "https://placehold.co/800x600?text=Mokka%202"
+    ]
+  },
+  {
+    "id": "a8",
+    "name": "Bella",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-02-19",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Nina",
+      "https://placehold.co/800x600?text=Nina%202"
+    ]
+  },
+  {
+    "id": "a9",
+    "name": "Mela",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-02-26",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Gucio",
+      "https://placehold.co/800x600?text=Gucio%202"
+    ]
+  },
+  {
+    "id": "a10",
+    "name": "Bruno",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-03-05",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Balu",
+      "https://placehold.co/800x600?text=Balu%202"
+    ]
+  },
+  {
+    "id": "a11",
+    "name": "Leon",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-03-12",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Figa",
+      "https://placehold.co/800x600?text=Figa%202"
+    ]
+  },
+  {
+    "id": "a12",
+    "name": "Nela",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-03-19",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Rufus",
+      "https://placehold.co/800x600?text=Rufus%202"
+    ]
+  },
+  {
+    "id": "a13",
+    "name": "Mimi",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-03-26",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Toffi",
+      "https://placehold.co/800x600?text=Toffi%202"
+    ]
+  },
+  {
+    "id": "a14",
+    "name": "Max",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-04-02",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Milo",
+      "https://placehold.co/800x600?text=Milo%202"
+    ]
+  },
+  {
+    "id": "a15",
+    "name": "Felix",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-04-09",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Zoya",
+      "https://placehold.co/800x600?text=Zoya%202"
+    ]
+  },
+  {
+    "id": "a16",
+    "name": "Kira",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-04-16",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Bruno",
+      "https://placehold.co/800x600?text=Bruno%202"
+    ]
+  },
+  {
+    "id": "a17",
+    "name": "Klara",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-04-23",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pola",
+      "https://placehold.co/800x600?text=Pola%202"
+    ]
+  },
+  {
+    "id": "a18",
+    "name": "Leo",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-04-30",
+    "status": "w trakcie",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Loki",
+      "https://placehold.co/800x600?text=Loki%202"
+    ]
+  },
+  {
+    "id": "a19",
+    "name": "Gucio",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-05-07",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Nela",
+      "https://placehold.co/800x600?text=Nela%202"
+    ]
+  },
+  {
+    "id": "a20",
+    "name": "Maja",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-05-14",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Aron",
+      "https://placehold.co/800x600?text=Aron%202"
+    ]
+  },
+  {
+    "id": "a21",
+    "name": "Zosia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-05-21",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Mango",
+      "https://placehold.co/800x600?text=Mango%202"
+    ]
+  },
+  {
+    "id": "a22",
+    "name": "Rocky",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-05-28",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kuba",
+      "https://placehold.co/800x600?text=Kuba%202"
+    ]
+  },
+  {
+    "id": "a23",
+    "name": "Simba",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-06-04",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Buba",
+      "https://placehold.co/800x600?text=Buba%202"
+    ]
+  },
+  {
+    "id": "a24",
+    "name": "Figa",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-06-11",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Fenix",
+      "https://placehold.co/800x600?text=Fenix%202"
+    ]
+  },
+  {
+    "id": "a25",
+    "name": "Fela",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-06-18",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kiki",
+      "https://placehold.co/800x600?text=Kiki%202"
+    ]
+  },
+  {
+    "id": "a26",
+    "name": "Kajtek",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-06-25",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": ["https://placehold.co/800x600?text=Leo", "https://placehold.co/800x600?text=Leo%202"]
+  },
+  {
+    "id": "a27",
+    "name": "Milo",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-07-02",
+    "status": "w trakcie",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Frida",
+      "https://placehold.co/800x600?text=Frida%202"
+    ]
+  },
+  {
+    "id": "a28",
+    "name": "Tosia",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-07-09",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Tango",
+      "https://placehold.co/800x600?text=Tango%202"
+    ]
+  },
+  {
+    "id": "a29",
+    "name": "Lili",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-07-16",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Tina",
+      "https://placehold.co/800x600?text=Tina%202"
+    ]
+  },
+  {
+    "id": "a30",
+    "name": "Ares",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-07-23",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Diesel",
+      "https://placehold.co/800x600?text=Diesel%202"
+    ]
+  },
+  {
+    "id": "a31",
+    "name": "Rufus",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-07-30",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pestka",
+      "https://placehold.co/800x600?text=Pestka%202"
+    ]
+  },
+  {
+    "id": "a32",
+    "name": "Sara",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-08-06",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Oskar",
+      "https://placehold.co/800x600?text=Oskar%202"
+    ]
+  },
+  {
+    "id": "a33",
+    "name": "Nina",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-08-13",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Lilka",
+      "https://placehold.co/800x600?text=Lilka%202"
+    ]
+  },
+  {
+    "id": "a34",
+    "name": "Fado",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-08-20",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Bizon",
+      "https://placehold.co/800x600?text=Bizon%202"
+    ]
+  },
+  {
+    "id": "a35",
+    "name": "Oreo",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-08-27",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Nori",
+      "https://placehold.co/800x600?text=Nori%202"
+    ]
+  },
+  {
+    "id": "a36",
+    "name": "Gaja",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-09-03",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Fester",
+      "https://placehold.co/800x600?text=Fester%202"
+    ]
+  },
+  {
+    "id": "a37",
+    "name": "Pola",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-09-10",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Kakao",
+      "https://placehold.co/800x600?text=Kakao%202"
+    ]
+  },
+  {
+    "id": "a38",
+    "name": "Dyzio",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-09-17",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Rambo",
+      "https://placehold.co/800x600?text=Rambo%202"
+    ]
+  },
+  {
+    "id": "a39",
+    "name": "Babel",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-09-24",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Tosia",
+      "https://placehold.co/800x600?text=Tosia%202"
+    ]
+  },
+  {
+    "id": "a40",
+    "name": "Sonia",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-10-01",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Zeus",
+      "https://placehold.co/800x600?text=Zeus%202"
+    ]
+  },
+  {
+    "id": "a41",
+    "name": "Misia",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-10-08",
+    "status": "w trakcie",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Mimi",
+      "https://placehold.co/800x600?text=Mimi%202"
+    ]
+  },
+  {
+    "id": "a42",
+    "name": "Borys",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-10-15",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Borys-2",
+      "https://placehold.co/800x600?text=Borys-2%202"
+    ]
+  },
+  {
+    "id": "a43",
+    "name": "Filemon",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-10-22",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Zelda",
+      "https://placehold.co/800x600?text=Zelda%202"
+    ]
+  },
+  {
+    "id": "a44",
+    "name": "Luna",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-10-29",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Atlas",
+      "https://placehold.co/800x600?text=Atlas%202"
+    ]
+  },
+  {
+    "id": "a45",
+    "name": "Kicia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-11-05",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Maja",
+      "https://placehold.co/800x600?text=Maja%202"
+    ]
+  },
+  {
+    "id": "a46",
+    "name": "Riko",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-11-12",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Frodo",
+      "https://placehold.co/800x600?text=Frodo%202"
+    ]
+  },
+  {
+    "id": "a47",
+    "name": "Mruczek",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-11-19",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Sonia",
+      "https://placehold.co/800x600?text=Sonia%202"
+    ]
+  },
+  {
+    "id": "a48",
+    "name": "Bella",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2023-11-26",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Hugo",
+      "https://placehold.co/800x600?text=Hugo%202"
+    ]
+  },
+  {
+    "id": "a49",
+    "name": "Mela",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2023-12-03",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Runa",
+      "https://placehold.co/800x600?text=Runa%202"
+    ]
+  },
+  {
+    "id": "a50",
+    "name": "Bruno",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2023-12-10",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Baster",
+      "https://placehold.co/800x600?text=Baster%202"
+    ]
+  },
+  {
+    "id": "a51",
+    "name": "Leon",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2023-12-17",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Lala",
+      "https://placehold.co/800x600?text=Lala%202"
+    ]
+  },
+  {
+    "id": "a52",
+    "name": "Nela",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2023-12-24",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pako",
+      "https://placehold.co/800x600?text=Pako%202"
+    ]
+  },
+  {
+    "id": "a53",
+    "name": "Mimi",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2023-12-31",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Puszek",
+      "https://placehold.co/800x600?text=Puszek%202"
+    ]
+  },
+  {
+    "id": "a54",
+    "name": "Max",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-01-07",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Remi",
+      "https://placehold.co/800x600?text=Remi%202"
+    ]
+  },
+  {
+    "id": "a55",
+    "name": "Felix",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-01-14",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Miki",
+      "https://placehold.co/800x600?text=Miki%202"
+    ]
+  },
+  {
+    "id": "a56",
+    "name": "Kira",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-01-21",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Hachi",
+      "https://placehold.co/800x600?text=Hachi%202"
+    ]
+  },
+  {
+    "id": "a57",
+    "name": "Klara",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-01-28",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": ["https://placehold.co/800x600?text=Ami", "https://placehold.co/800x600?text=Ami%202"]
+  },
+  {
+    "id": "a58",
+    "name": "Leo",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-02-04",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Maverick",
+      "https://placehold.co/800x600?text=Maverick%202"
+    ]
+  },
+  {
+    "id": "a59",
+    "name": "Gucio",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-02-11",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Coco",
+      "https://placehold.co/800x600?text=Coco%202"
+    ]
+  },
+  {
+    "id": "a60",
+    "name": "Maja",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-02-18",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Rocky",
+      "https://placehold.co/800x600?text=Rocky%202"
+    ]
+  },
+  {
+    "id": "a61",
+    "name": "Zosia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-02-25",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Nika",
+      "https://placehold.co/800x600?text=Nika%202"
+    ]
+  },
+  {
+    "id": "a62",
+    "name": "Rocky",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-03-03",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": ["https://placehold.co/800x600?text=Max", "https://placehold.co/800x600?text=Max%202"]
+  },
+  {
+    "id": "a63",
+    "name": "Simba",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-03-10",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Rosa",
+      "https://placehold.co/800x600?text=Rosa%202"
+    ]
+  },
+  {
+    "id": "a64",
+    "name": "Figa",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-03-17",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Dino",
+      "https://placehold.co/800x600?text=Dino%202"
+    ]
+  },
+  {
+    "id": "a65",
+    "name": "Fela",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-03-24",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pipa",
+      "https://placehold.co/800x600?text=Pipa%202"
+    ]
+  },
+  {
+    "id": "a66",
+    "name": "Kajtek",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-03-31",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Gizmo",
+      "https://placehold.co/800x600?text=Gizmo%202"
+    ]
+  },
+  {
+    "id": "a67",
+    "name": "Milo",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-04-07",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Mela",
+      "https://placehold.co/800x600?text=Mela%202"
+    ]
+  },
+  {
+    "id": "a68",
+    "name": "Tosia",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-04-14",
+    "status": "w trakcie",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Bolt",
+      "https://placehold.co/800x600?text=Bolt%202"
+    ]
+  },
+  {
+    "id": "a69",
+    "name": "Lili",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-04-21",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Sisi",
+      "https://placehold.co/800x600?text=Sisi%202"
+    ]
+  },
+  {
+    "id": "a70",
+    "name": "Ares",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-04-28",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Samba",
+      "https://placehold.co/800x600?text=Samba%202"
+    ]
+  },
+  {
+    "id": "a71",
+    "name": "Rufus",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-05-05",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Bambi",
+      "https://placehold.co/800x600?text=Bambi%202"
+    ]
+  },
+  {
+    "id": "a72",
+    "name": "Sara",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-05-12",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Otis",
+      "https://placehold.co/800x600?text=Otis%202"
+    ]
+  },
+  {
+    "id": "a73",
+    "name": "Nina",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-05-19",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pimka",
+      "https://placehold.co/800x600?text=Pimka%202"
+    ]
+  },
+  {
+    "id": "a74",
+    "name": "Fado",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-05-26",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=D%C5%BCeki",
+      "https://placehold.co/800x600?text=D%C5%BCeki%202"
+    ]
+  },
+  {
+    "id": "a75",
+    "name": "Oreo",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-06-02",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kara",
+      "https://placehold.co/800x600?text=Kara%202"
+    ]
+  },
+  {
+    "id": "a76",
+    "name": "Gaja",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-06-09",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Grom",
+      "https://placehold.co/800x600?text=Grom%202"
+    ]
+  },
+  {
+    "id": "a77",
+    "name": "Pola",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-06-16",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Tola",
+      "https://placehold.co/800x600?text=Tola%202"
+    ]
+  },
+  {
+    "id": "a78",
+    "name": "Dyzio",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-06-23",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kajtek",
+      "https://placehold.co/800x600?text=Kajtek%202"
+    ]
+  },
+  {
+    "id": "a79",
+    "name": "Babel",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-06-30",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Misia-2",
+      "https://placehold.co/800x600?text=Misia-2%202"
+    ]
+  },
+  {
+    "id": "a80",
+    "name": "Sonia",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-07-07",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Szarik",
+      "https://placehold.co/800x600?text=Szarik%202"
+    ]
+  },
+  {
+    "id": "a81",
+    "name": "Misia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-07-14",
+    "status": "w trakcie",
+    "urgent": true,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Kitka",
+      "https://placehold.co/800x600?text=Kitka%202"
+    ]
+  },
+  {
+    "id": "a82",
+    "name": "Borys",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-07-21",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Benji",
+      "https://placehold.co/800x600?text=Benji%202"
+    ]
+  },
+  {
+    "id": "a83",
+    "name": "Filemon",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-07-28",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Kira",
+      "https://placehold.co/800x600?text=Kira%202"
+    ]
+  },
+  {
+    "id": "a84",
+    "name": "Luna",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-08-04",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Harley",
+      "https://placehold.co/800x600?text=Harley%202"
+    ]
+  },
+  {
+    "id": "a85",
+    "name": "Kicia",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-08-11",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Luna-2",
+      "https://placehold.co/800x600?text=Luna-2%202"
+    ]
+  },
+  {
+    "id": "a86",
+    "name": "Riko",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-08-18",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pablo",
+      "https://placehold.co/800x600?text=Pablo%202"
+    ]
+  },
+  {
+    "id": "a87",
+    "name": "Mruczek",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-08-25",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Margo",
+      "https://placehold.co/800x600?text=Margo%202"
+    ]
+  },
+  {
+    "id": "a88",
+    "name": "Bella",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-09-01",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Karmel",
+      "https://placehold.co/800x600?text=Karmel%202"
+    ]
+  },
+  {
+    "id": "a89",
+    "name": "Mela",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-09-08",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pche%C5%82ka",
+      "https://placehold.co/800x600?text=Pche%C5%82ka%202"
+    ]
+  },
+  {
+    "id": "a90",
+    "name": "Bruno",
+    "type": "pies",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-09-15",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Moris",
+      "https://placehold.co/800x600?text=Moris%202"
+    ]
+  },
+  {
+    "id": "a91",
+    "name": "Leon",
+    "type": "kot",
+    "age": "senior",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-09-22",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Fora",
+      "https://placehold.co/800x600?text=Fora%202"
+    ]
+  },
+  {
+    "id": "a92",
+    "name": "Nela",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-09-29",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Barry",
+      "https://placehold.co/800x600?text=Barry%202"
+    ]
+  },
+  {
+    "id": "a93",
+    "name": "Mimi",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "mały",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-10-06",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Zuzia",
+      "https://placehold.co/800x600?text=Zuzia%202"
+    ]
+  },
+  {
+    "id": "a94",
+    "name": "Max",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-10-13",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": ["https://placehold.co/800x600?text=Rex", "https://placehold.co/800x600?text=Rex%202"]
+  },
+  {
+    "id": "a95",
+    "name": "Felix",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "mały",
+    "description": "Towarzyski kot, który uwielbia spokojne wieczory i głaskanie.",
+    "intakeDate": "2024-10-20",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Sally",
+      "https://placehold.co/800x600?text=Sally%202"
+    ]
+  },
+  {
+    "id": "a96",
+    "name": "Kira",
+    "type": "pies",
+    "age": "młody",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Łagodny senior, który ceni spokój i krótkie spacery.",
+    "intakeDate": "2024-10-27",
+    "status": "adoptowany",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Sok%C3%B3%C5%82",
+      "https://placehold.co/800x600?text=Sok%C3%B3%C5%82%202"
+    ]
+  },
+  {
+    "id": "a97",
+    "name": "Klara",
+    "type": "kot",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "średni",
+    "description": "Ciekawska kotka, która szybko nawiązuje kontakt z ludźmi.",
+    "intakeDate": "2024-11-03",
+    "status": "w trakcie",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Pepa",
+      "https://placehold.co/800x600?text=Pepa%202"
+    ]
+  },
+  {
+    "id": "a98",
+    "name": "Leo",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Aktywny pies, idealny kompan na długie spacery.",
+    "intakeDate": "2024-11-10",
+    "status": "do adopcji",
+    "urgent": false,
+    "featured": false,
+    "photos": [
+      "https://placehold.co/800x600?text=Fuks",
+      "https://placehold.co/800x600?text=Fuks%202"
+    ]
+  },
+  {
+    "id": "a99",
+    "name": "Gucio",
+    "type": "kot",
+    "age": "młody",
+    "gender": "samiec",
+    "size": "średni",
+    "description": "Spokojny senior, który najlepiej czuje się w cichym domu.",
+    "intakeDate": "2024-11-17",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Rita",
+      "https://placehold.co/800x600?text=Rita%202"
+    ]
+  },
+  {
+    "id": "a100",
+    "name": "Maja",
+    "type": "pies",
+    "age": "dorosły",
+    "gender": "samica",
+    "size": "duży",
+    "description": "Wesoły piesek, który uwielbia ruch i naukę sztuczek.",
+    "intakeDate": "2024-11-24",
+    "status": "do adopcji",
+    "urgent": true,
+    "featured": true,
+    "photos": [
+      "https://placehold.co/800x600?text=Tyson",
+      "https://placehold.co/800x600?text=Tyson%202"
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "v1",
+    "name": "Anna Kowalska",
+    "role": "spacery",
+    "joinDate": "2023-02-14",
+    "hoursPerMonth": 18,
+    "active": true
+  },
+  {
+    "id": "v2",
+    "name": "Marek Nowak",
+    "role": "opieka medyczna",
+    "joinDate": "2022-11-05",
+    "hoursPerMonth": 22,
+    "active": true
+  },
+  {
+    "id": "v3",
+    "name": "Katarzyna Zielinska",
+    "role": "socjalizacja kotow",
+    "joinDate": "2024-01-19",
+    "hoursPerMonth": 14,
+    "active": true
+  },
+  {
+    "id": "v4",
+    "name": "Piotr Wisniewski",
+    "role": "transport",
+    "joinDate": "2021-09-01",
+    "hoursPerMonth": 10,
+    "active": true
+  },
+  {
+    "id": "v5",
+    "name": "Oliwia Maj",
+    "role": "eventy adopcyjne",
+    "joinDate": "2024-06-10",
+    "hoursPerMonth": 9,
+    "active": true
+  },
+  {
+    "id": "v6",
+    "name": "Jakub Dabrowski",
+    "role": "spacery",
+    "joinDate": "2020-04-22",
+    "hoursPerMonth": 16,
+    "active": true
+  },
+  {
+    "id": "v7",
+    "name": "Ewa Kaczmarek",
+    "role": "opieka medyczna",
+    "joinDate": "2019-12-03",
+    "hoursPerMonth": 12,
+    "active": false
+  },
+  {
+    "id": "v8",
+    "name": "Tomasz Wojcik",
+    "role": "utrzymanie",
+    "joinDate": "2022-03-27",
+    "hoursPerMonth": 8,
+    "active": true
+  },
+  {
+    "id": "v9",
+    "name": "Zuzanna Sikora",
+    "role": "socjalizacja psow",
+    "joinDate": "2025-01-08",
+    "hoursPerMonth": 11,
+    "active": true
+  },
+  {
+    "id": "v10",
+    "name": "Pawel Mazur",
+    "role": "transport",
+    "joinDate": "2023-07-16",
+    "hoursPerMonth": 7,
+    "active": true
+  },
+  {
+    "id": "v11",
+    "name": "Natalia Olszewska",
+    "role": "eventy adopcyjne",
+    "joinDate": "2022-10-21",
+    "hoursPerMonth": 13,
+    "active": true
+  },
+  {
+    "id": "v12",
+    "name": "Krzysztof Lewandowski",
+    "role": "spacery",
+    "joinDate": "2021-01-11",
+    "hoursPerMonth": 19,
+    "active": true
+  },
+  {
+    "id": "v13",
+    "name": "Magdalena Pawlak",
+    "role": "opieka medyczna",
+    "joinDate": "2024-03-03",
+    "hoursPerMonth": 15,
+    "active": true
+  },
+  {
+    "id": "v14",
+    "name": "Damian Michalski",
+    "role": "utrzymanie",
+    "joinDate": "2020-08-30",
+    "hoursPerMonth": 6,
+    "active": false
+  },
+  {
+    "id": "v15",
+    "name": "Weronika Czarnecka",
+    "role": "socjalizacja kotow",
+    "joinDate": "2023-05-12",
+    "hoursPerMonth": 12,
+    "active": true
+  },
+  {
+    "id": "v16",
+    "name": "Michal Krol",
+    "role": "socjalizacja psow",
+    "joinDate": "2024-09-09",
+    "hoursPerMonth": 10,
+    "active": true
+  },
+  {
+    "id": "v17",
+    "name": "Agnieszka Stelmach",
+    "role": "spacery",
+    "joinDate": "2018-06-18",
+    "hoursPerMonth": 20,
+    "active": true
+  },
+  {
+    "id": "v18",
+    "name": "Lukasz Adamczyk",
+    "role": "transport",
+    "joinDate": "2025-02-02",
+    "hoursPerMonth": 5,
+    "active": true
+  },
+  {
+    "id": "v19",
+    "name": "Joanna Bednarek",
+    "role": "eventy adopcyjne",
+    "joinDate": "2021-11-25",
+    "hoursPerMonth": 9,
+    "active": true
+  },
+  {
+    "id": "v20",
+    "name": "Rafal Sadowski",
+    "role": "utrzymanie",
+    "joinDate": "2022-02-15",
+    "hoursPerMonth": 8,
+    "active": true
+  }
+]
