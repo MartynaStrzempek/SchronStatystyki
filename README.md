@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+# Shadcn
+### Adding components
+`npx shadcn@latest add <component-name>`
+
+List of components: https://ui.shadcn.com/docs/components
