@@ -5,9 +5,6 @@ export function DashboardPage() {
     <section>
       <h1>Dashboard</h1>
       <Button>Dodaj rekord</Button>
-      <Button variant={'secondary'}>Dodaj rekord</Button>
-      <Button variant={'outline'}>Dodaj rekord</Button>
-      <Button variant={'ghost'}>Dodaj rekord</Button>
       <div>
         <div>kafelek</div>
         <div>kafelek</div>
