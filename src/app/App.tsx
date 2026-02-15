@@ -1,24 +1,19 @@
 import './App.css'
+import { NavLink, Outlet } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <aside>
-        <a>Dashboard</a>
-        <a>Zwierzęta</a>
+    <div className="app">
+      <aside className="sidebar">
+        <nav>
+          <NavLink to="/" end>
+            Dashboard
+          </NavLink>
+          <NavLink to="/animals">Zwierzęta</NavLink>
+        </nav>
       </aside>
-      <main>
-        <div>
-          <div>kafelek</div>
-          <div>kafelek</div>
-          <div>kafelek</div>
-        </div>
-
-        <div>
-          <div>wykres</div>
-          <div>wykres</div>
-          <div>wykres</div>
-        </div>
+      <main className="page-content">
+        <Outlet />
       </main>
     </div>
   )

@@ -1,5 +1,11 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+.app {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 100vh;
 }
+
+.sidebar {
+  background: #ffffff;
+  padding: 1.5rem 1rem;
+}
+
