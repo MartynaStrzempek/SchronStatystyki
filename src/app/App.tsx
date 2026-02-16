@@ -14,11 +14,7 @@ function App() {
           <span className="text-primary text-4xl font-bold">Stats</span>
         </div>
         <nav className="flex flex-col">
-          <NavLink
-            to="/"
-            end
-            className={navLinkClass}
-          >
+          <NavLink to="/" end className={navLinkClass}>
             Dashboard
           </NavLink>
           <NavLink to="/animals" className={navLinkClass}>

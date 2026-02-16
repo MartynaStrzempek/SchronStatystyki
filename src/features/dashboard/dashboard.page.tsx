@@ -44,7 +44,9 @@ export function DashboardPage() {
       </div>
       <div className="grid grid-cols-[0.65fr_0.35fr] gap-10">
         <div className="bg-white rounded-lg py-10 pr-10">
-          <p className="pl-10 pb-8 text-muted-foreground text-xl font-bold">Adopcje w poszczególnych miesiącach</p>
+          <p className="pl-10 pb-8 text-muted-foreground text-xl font-bold">
+            Adopcje w poszczególnych miesiącach
+          </p>
           <div className="h-[300px]">
             <ResponsiveContainer>
               <BarChart data={chartData}>
@@ -58,7 +60,7 @@ export function DashboardPage() {
             </ResponsiveContainer>
           </div>
         </div>
-        <div className='bg-white rounded-lg py-10 px-10'>
+        <div className="bg-white rounded-lg py-10 px-10">
           <p className="pb-6 text-muted-foreground text-xl font-bold">Zwierzęta według typu</p>
           <div className="h-[300px]">
             <ResponsiveContainer>
@@ -72,7 +74,6 @@ export function DashboardPage() {
                   paddingAngle={5}
                   dataKey="value"
                   isAnimationActive={true}
-                
                 />
                 <Tooltip />
                 <Legend wrapperStyle={{ paddingTop: 24 }} />
