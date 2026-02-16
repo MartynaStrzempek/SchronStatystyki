@@ -1,7 +1,9 @@
 export function AnimalsPage() {
   return (
     <section>
-      <h1>Zwierzęta</h1>
+      <div>
+        <div className="page-title">Zwierzęta</div>
+      </div>
       <p>statystyki zwierząt</p>
     </section>
   )
