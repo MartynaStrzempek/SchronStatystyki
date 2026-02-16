@@ -1,15 +1,5 @@
-import {
-  Bar,
-  BarChart,
-  CartesianGrid,
-  Pie,
-  PieChart,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-  Legend,
-} from 'recharts'
+import { BarChart } from '@/shared/charts/bar-chart'
+import { PieChart } from '@/shared/charts/pie-chart'
 
 const kpiCards = [
   {
@@ -94,7 +84,6 @@ const animalsTypeData = [
   { name: 'Psy', value: 68, fill: 'var(--primary)' },
   { name: 'Koty', value: 42, fill: 'var(--secondary)' },
 ]
-// TODO: move charts to separate components and make them generic, so they can be reused in other places (e.g. animals page)
 export function DashboardPage() {
   return (
     <section>
@@ -126,39 +115,18 @@ export function DashboardPage() {
           <p className="pl-10 pb-8 text-muted-foreground text-xl font-bold">
             Adopcje w poszczególnych miesiącach
           </p>
-          <div className="h-[300px]">
-            <ResponsiveContainer>
-              <BarChart data={chartData}>
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="month" />
-                <YAxis />
-                <Tooltip />
-                <Bar dataKey="dogAdoptions" name="Psy" fill="var(--primary)" radius={4} />
-                <Bar dataKey="catAdoptions" name="Koty" fill="var(--secondary)" radius={4} />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
+          <BarChart
+            data={chartData}
+            xDataKey="month"
+            series={[
+              { dataKey: 'dogAdoptions', name: 'Psy', fill: 'var(--primary)' },
+              { dataKey: 'catAdoptions', name: 'Koty', fill: 'var(--secondary)' },
+            ]}
+          />
         </div>
         <div className="bg-white rounded-lg py-10 px-10">
           <p className="pb-6 text-muted-foreground text-xl font-bold">Zwierzęta według typu</p>
-          <div className="h-[300px]">
-            <ResponsiveContainer>
-              <PieChart>
-                <Pie
-                  data={animalsTypeData}
-                  innerRadius="80%"
-                  outerRadius="100%"
-                  cornerRadius="50%"
-                  fill="#8884d8"
-                  paddingAngle={5}
-                  dataKey="value"
-                  isAnimationActive={true}
-                />
-                <Tooltip />
-                <Legend wrapperStyle={{ paddingTop: 24 }} />
-              </PieChart>
-            </ResponsiveContainer>
-          </div>
+          <PieChart data={animalsTypeData} dataKey="value" />
         </div>
       </div>
     </section>
