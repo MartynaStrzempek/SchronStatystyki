@@ -1,5 +1,5 @@
-import { BarChart } from '@/shared/charts/bar-chart'
-import { PieChart } from '@/shared/charts/pie-chart'
+import { WrappedBarChart } from '@/shared/ui/wrapped-bar-chart'
+import { WrappedPieChart } from '@/shared/ui/wrapped-pie-chart'
 
 const kpiCards = [
   {
@@ -111,23 +111,16 @@ export function DashboardPage() {
         ))}
       </div>
       <div className="grid xl:grid-cols-[0.65fr_0.35fr] md:grid-cols-1 gap-10">
-        <div className="bg-white rounded-lg py-10 pr-10">
-          <p className="pl-10 pb-8 text-muted-foreground text-xl font-bold">
-            Adopcje w poszczególnych miesiącach
-          </p>
-          <BarChart
-            data={chartData}
-            xDataKey="month"
-            series={[
-              { dataKey: 'dogAdoptions', name: 'Psy', fill: 'var(--primary)' },
-              { dataKey: 'catAdoptions', name: 'Koty', fill: 'var(--secondary)' },
-            ]}
-          />
-        </div>
-        <div className="bg-white rounded-lg py-10 px-10">
-          <p className="pb-6 text-muted-foreground text-xl font-bold">Zwierzęta według typu</p>
-          <PieChart data={animalsTypeData} dataKey="value" />
-        </div>
+        <WrappedBarChart
+          title="Adopcje w poszczególnych miesiącach"
+          data={chartData}
+          xDataKey="month"
+          series={[
+            { dataKey: 'dogAdoptions', name: 'Psy', fill: 'var(--primary)' },
+            { dataKey: 'catAdoptions', name: 'Koty', fill: 'var(--secondary)' },
+          ]}
+        />
+        <WrappedPieChart title="Zwierzęta według typu" data={animalsTypeData} dataKey="value" />
       </div>
     </section>
   )

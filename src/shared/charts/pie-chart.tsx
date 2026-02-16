@@ -1,7 +1,7 @@
 import type { CSSProperties } from 'react'
 import { Legend, Pie, PieChart as RechartsPieChart, ResponsiveContainer, Tooltip } from 'recharts'
 
-type PieChartProps<T extends Record<string, unknown>> = {
+export type PieChartProps<T extends Record<string, unknown>> = {
   data: T[]
   dataKey: keyof T & string
   heightClassName?: string

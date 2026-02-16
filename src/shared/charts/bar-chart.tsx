@@ -15,7 +15,7 @@ type BarSeries<T> = {
   radius?: number | [number, number, number, number]
 }
 
-type BarChartProps<T extends Record<string, unknown>> = {
+export type BarChartProps<T extends Record<string, unknown>> = {
   data: T[]
   xDataKey: keyof T & string
   series: BarSeries<T>[]

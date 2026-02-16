@@ -38,6 +38,9 @@
     --background: #111827;
     --foreground: #ffffff;
     --muted-foreground: #9ca3af;
+
+    --sidebar: #1f2937;
+    --card: #1f2937;
   }
 }
 
