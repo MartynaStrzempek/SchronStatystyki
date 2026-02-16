@@ -1,4 +1,5 @@
 import { WrappedBarChart } from '@/shared/ui/wrapped-bar-chart'
+import { KpiCard } from '@/shared/ui/kpi-card'
 import { WrappedPieChart } from '@/shared/ui/wrapped-pie-chart'
 
 const kpiCards = [
@@ -92,22 +93,14 @@ export function DashboardPage() {
       </div>
       <div className="mb-10 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
         {kpiCards.map((card) => (
-          <article
+          <KpiCard
             key={card.title}
-            className="relative overflow-hidden rounded-xl p-10 text-white shadow-md"
-            style={{ backgroundImage: card.gradient }}
-          >
-            <div className="absolute -right-16 -top-2 h-44 w-44 rounded-full bg-white/20" />
-            <div className="absolute -bottom-14 right-2 h-40 w-40 rounded-full bg-white/16" />
-            <div className="z-10">
-              <div className="mb-5 flex justify-between">
-                <p className="text-xl leading-none text-white/90">{card.title}</p>
-                <span aria-hidden="true">{card.icon}</span>
-              </div>
-              <p className="mb-10 text-4xl font-bold leading-none">{card.value}</p>
-              <p className="text-xl font-semibold leading-none text-white/90">{card.change}</p>
-            </div>
-          </article>
+            title={card.title}
+            value={card.value}
+            change={card.change}
+            gradient={card.gradient}
+            icon={card.icon}
+          />
         ))}
       </div>
       <div className="grid xl:grid-cols-[0.65fr_0.35fr] md:grid-cols-1 gap-10">
