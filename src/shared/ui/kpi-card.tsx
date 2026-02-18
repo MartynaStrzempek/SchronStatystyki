@@ -11,10 +11,7 @@ type KpiCardProps = {
 
 export function KpiCard({ title, value, change, gradient, icon }: KpiCardProps) {
   return (
-    <Card
-      className="relative overflow-hidden"
-      style={{ backgroundImage: gradient }}
-    >
+    <Card className="relative overflow-hidden" style={{ backgroundImage: gradient }}>
       <div className="absolute -right-16 top-6 h-44 w-44 rounded-full bg-white/20" />
       <div className="absolute -bottom-16 right-2 h-40 w-40 rounded-full bg-white/16" />
       <div className="z-10">
