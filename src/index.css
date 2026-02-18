@@ -12,6 +12,7 @@
   --color-tertiary-foreground: var(--tertiary-foreground);
   --color-sidebar: var(--sidebar);
   --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
   --color-border: var(--border);
 }
 
@@ -31,7 +32,9 @@
     --tertiary-foreground: #ffffff;
 
     --sidebar: #ffffff;
+    
     --card: #ffffff;
+    --card-foreground: var(--muted-foreground);
   }
 
   .dark {

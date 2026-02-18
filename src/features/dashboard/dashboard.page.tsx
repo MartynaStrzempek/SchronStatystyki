@@ -12,6 +12,7 @@ export function DashboardPage() {
         <KpiCards />
       </div>
       <div className="grid xl:grid-cols-[0.65fr_0.35fr] md:grid-cols-1 gap-10">
+        {/* TODO: Use Card component in charts */}
         <AdoptionsInMonthBarChart />
         <AnimalTypesPieChart />
       </div>
