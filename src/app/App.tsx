@@ -18,7 +18,7 @@ function App() {
   }, [isDarkMode])
 
   return (
-    <div className="grid grid-cols-[300px_1fr] min-h-screen">
+    <div className="grid grid-cols-[300px_1fr] min-h-screen max-w-[2000px]">
       <aside className="bg-sidebar shadow-lg flex flex-col px-6 py-12">
         <div className="mb-8">
           <span className="text-primary text-4xl font-bold">Stats</span>
