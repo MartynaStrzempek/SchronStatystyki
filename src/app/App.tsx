@@ -16,10 +16,10 @@ function App() {
   useEffect(() => {
     document.documentElement.classList.toggle('dark', isDarkMode)
   }, [isDarkMode])
-
+  // TODO: move sidebar to separate file. Create mobile version */}
   return (
-    <div className="grid grid-cols-[300px_1fr] min-h-screen max-w-[2000px]">
-      <aside className="bg-sidebar shadow-lg flex flex-col px-6 py-12">
+    <div className="grid md:grid-cols-[300px_1fr] min-h-screen max-w-[2000px]">
+      <aside className="hidden md:flex bg-sidebar shadow-lg flex flex-col px-6 py-12">
         <div className="mb-8">
           <span className="text-primary text-4xl font-bold">Stats</span>
         </div>
@@ -56,7 +56,7 @@ function App() {
           </Button>
         </div>
       </aside>
-      <main className="mx-10 my-12">
+      <main className="w-full px-4 md:px-10 py-6 md:py-12">
         <Outlet />
       </main>
     </div>
