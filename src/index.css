@@ -14,6 +14,7 @@
   --color-card: var(--card);
   --color-card-foreground: var(--card-foreground);
   --color-border: var(--border);
+  --color-placeholder: var(--placeholder);
 }
 
 @layer base {
@@ -35,6 +36,8 @@
 
     --card: #ffffff;
     --card-foreground: var(--muted-foreground);
+
+    --placeholder: #d7d9db;
   }
 
   .dark {
@@ -44,6 +47,8 @@
 
     --sidebar: #1f2937;
     --card: #1f2937;
+
+    --placeholder: #6b7280;
   }
 }
 
